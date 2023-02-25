@@ -1,0 +1,9 @@
+Murilo Sanches - ms 9999 - pt-BR, BRL
+
+Pedro Garcia - pg 1111 - pt-PT, EUR
+
+Omar Ali - oa 2222 - ar-EG, USD
+
+Steven Thomas Williams - stw 3333 - en-GB, GBP 
+
+Sarah Smith - ss 4444 - en-US, USD 
