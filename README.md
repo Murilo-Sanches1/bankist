@@ -4,8 +4,8 @@
 **Bankist**, o Banco que Simplifica. Projeto sem nenhum intuito comercial/sério, apenas para manipular a DOM e aperfeiçoar os conhecimentos de JavaScript/TypeScript. 
 Programado de forma imperativa. 
 
-O projeto contém 5 contas ativas (ver mais no index.ts), em cada conta possue as informações de movimentos (saques/depósitos), além 
-do local e da moeda que o "usuário" utiliza, porque foi utilizado a API `Intl` do próprio JavaScript para controlar o fluxo de dinheiro e data . Com essas 
+O projeto contém 5 contas ativas (ver mais no `index.ts`), em cada conta possue as informações de movimentos (saques/depósitos), além 
+do local e da moeda que o "usuário" utiliza porque foi utilizado a API `Intl` do próprio JavaScript para controlar o fluxo de dinheiro e data . Com essas 
 informações o JavaScript controla a DOM para responder de acordo com o respectivo usuário logado. Todas as informações estão no **PRÓPRIO ARQUIVO**, não 
 foi utilizado back-end, banco de dados ou localstorage, apesar do fato que seria fácil implementar algo mais real, meu objetivo foi apenas a 
 manipulação do Front-End.
