@@ -1,4 +1,4 @@
-# DOM-Bankist
+# Bankist
 
 ## Sobre
 **Bankist**, o Banco que Simplifica. Projeto sem nenhum intuito comercial/sério, apenas para manipular a DOM e aperfeiçoar os conhecimentos de JavaScript/TypeScript. 
